@@ -72,6 +72,4 @@ X_train_with_predictions['pred_lr'] = y_pred_train
 X_test_with_predictions.to_csv('data/df_arrests_test_with_predictions.csv', index=False)
 X_train_with_predictions.to_csv('data/df_arrests_train_with_predictions.csv', index=False)
 
-print("Dataframes with predictions saved. Ready for the next phase.")
-
 
