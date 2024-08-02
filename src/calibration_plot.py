@@ -3,7 +3,6 @@ PART 5: Calibration-light
 Use `calibration_plot` function to create a calibration curve for the logistic regression model. Set `n_bins` to 5. (The calibration plot may have less than 5 points, that's ok) 
 Use `calibration_plot` function to create a calibration curve for the decision tree model. Set `n_bins` to 5. (The calibration plot may have less than 5 points, that's ok) 
 Which model is more calibrated? Print this question and your answer. 
-
 '''
 # Import necessary packages
 import pandas as pd
